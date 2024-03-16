@@ -9,5 +9,14 @@ import java.lang.annotation.Target;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface SqlForeignKey {
 
+    /**
+     * class to reference 
+     * by default @ForeignKey reference to a field that have @SqlPrimaryKey
+    */
+    Class<?> table();
+
+    /**
+     * name of foreign key
+    */
     String name();
 }
