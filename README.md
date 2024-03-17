@@ -15,4 +15,4 @@
 ### about
 
 - advanced swing API
-- forcus to data ( **idea** )
+- forcus to data ( **specific-idea** )
