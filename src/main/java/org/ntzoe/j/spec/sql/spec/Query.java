@@ -1,4 +1,4 @@
-package org.ntzoe.j.sql.spec;
+package org.ntzoe.j.spec.sql.spec;
 
 public interface Query {
 

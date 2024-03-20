@@ -1,4 +1,4 @@
-package org.ntzoe.j.sql.meta;
+package org.ntzoe.j.spec.sql.meta;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
